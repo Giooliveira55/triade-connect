@@ -1,1 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><rect width="512" height="512" rx="100" fill="#241913"/><path d="M256 65 447 256 256 447 65 256Z" fill="none" stroke="#c5a06a" stroke-width="12"/><path d="M256 168 342 322H170Z" fill="none" stroke="#c5a06a" stroke-width="14"/><text x="256" y="402" fill="#c5a06a" font-family="Georgia" font-size="26" text-anchor="middle" letter-spacing="6">TRÍADE</text></svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="100" fill="#241913"/>
+  <g fill="none" stroke="#C9A66B" stroke-width="13"
+     stroke-linecap="round" stroke-linejoin="round">
+    <path d="M256 76 L428 382 H84 Z"/>
+    <path d="M256 154 V345"/>
+    <path d="M177 207 H335"/>
+    <path d="M256 184 V207"/>
+    <path d="M190 207 L155 285"/>
+    <path d="M190 207 L225 285"/>
+    <path d="M322 207 L287 285"/>
+    <path d="M322 207 L357 285"/>
+    <path d="M134 285 Q190 336 246 285 Z"/>
+    <path d="M266 285 Q322 336 378 285 Z"/>
+    <path d="M205 345 H307"/>
+    <path d="M181 369 H331"/>
+  </g>
+</svg>
